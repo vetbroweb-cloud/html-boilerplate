@@ -32,6 +32,7 @@
             <li>My wife's name is Amanda</li>
             <li>My children's names are Elias, Peyton, and Evelyn</li>
         </ul>
+        <p>learn more <a href="about.html">about me</a></p>
 
     </body>
 </html>
