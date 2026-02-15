@@ -4,34 +4,34 @@
     <meta charset="UTF-8">
     <title>My First Website</title>
 </head>
-<body>
+    <body>
 
-    <h1>My First Website</h1>
+        <h1>My First Website</h1>
     
-    <p>Welcome to my first webpage</p>
+        <p>Welcome to my first webpage</p>
     
-    <p>I plan to add more to this to showcase my <strong>skills</strong> as I develop them.</p>
+        <p>I plan to add more to this to showcase my <strong>skills</strong> as I develop them.</p>
 
-    <img src="computer-screen.jpg" alt="image of computer screen showing a command screen">
+        <img src="computer-screen.jpg" alt="image of computer screen showing a command screen">
 
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Placeat deleniti fugiat tempora iste aspernatur nemo magni minima quasi rem excepturi quae eligendi repellat, odit maxime corporis eaque eveniet ipsam ut!</p>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Placeat deleniti fugiat tempora iste aspernatur nemo magni minima quasi rem excepturi quae eligendi repellat, odit maxime corporis eaque eveniet ipsam ut!</p>
 
-    <h2>My skills</h2>
-    <ul>
-        <li>HTML</li>
-        <li>CSS, <em>only some but gaining more on this quickly.</em></li>
-    </ul>
+        <h2>My skills</h2>
+        <ul>
+            <li>HTML</li>
+            <li>CSS, <em>only some but gaining more on this quickly.</em></li>
+        </ul>
 
-    <h2>A little about myself</h2>
-    <p>I am a 32 years old, I am male and always have been</p>
-    
-    <p>My family picture <img src="family-photo.jpg" alt="family picture of me and my wife and three children"> I am married and have a blended family that includes three children and my beautiful wife.</p>
+        <h2>A little about myself</h2>
+        <p>I am a 32 years old, I am male and always have been</p>
 
-    <p>My families names are as follows:</p>
-    <ul>
-        <li>My wife's name is Amanda</li>
-        <li>My children's names are Elias, Peyton, and Evelyn</li>
-    </ul>
+        <p>My family picture <img src="family-photo.jpg" alt="family picture of me and my wife and three children"> I am married and have a blended family that includes three children and my beautiful wife.</p>
 
-</body>
+        <p>My families names are as follows:</p>
+        <ul>
+            <li>My wife's name is Amanda</li>
+            <li>My children's names are Elias, Peyton, and Evelyn</li>
+        </ul>
+
+    </body>
 </html>
